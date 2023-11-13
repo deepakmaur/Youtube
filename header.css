@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+#row-1{
+    padding-top: 10px;
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    background-color: black;
+    
+}
+#row-2{
+    padding-top: 85px;
+    width: 100%;
+    height: 80%;
+    
+} 
+#papa{
+    display: flex;
+    flex-direction: column;
+}  
+.top-left{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.list{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 29px;
+    cursor: pointer;
+
+}
+
+.left-icon{
+    cursor: pointer;
+    padding-top: 9px;
+    padding-left: 25px;
+
+    
+}
+.text-left{
+    padding-left: 10px;
+    padding-top: 9px;
+    font-family: Roboto, Arial;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.top-center{
+    display: flex;
+    flex: 1fr;
+    max-width: 600px;
+}
+.nav-search{
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    width: 500px;;
+    height: 40px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 25px;
+}
+
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    
+    
+    
+}
+.search-icon{
+    width: 10%;
+    padding: 10px;
+    border:solid;
+    border-width: 1px;
+    background-color: rgb(44, 41, 41);
+    border-color: silver;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    cursor: pointer;
+    
+}
+
+.voice{
+     margin-left: 5px;
+     margin-top: 13px;
+     cursor: pointer;
+}
+
+.top-right{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.video{
+    padding: 11px;
+    padding-right: 35px;
+}
+.notification{
+    padding: 11px;
+    padding-right: 35px;
+}
+.user{
+    padding: 11px;
+    padding-right: 15px;
+
+}
+
+.row1{
+    display: flex;
+    flex-wrap: nowrap;
+}
+#left {
+    
+    margin-top: 75px;
+    width: 5%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+.home{
+    padding: 20px;
+    padding-bottom: 30px;
+    
+}
+.shorts{
+    padding: 20px;
+    padding-bottom: 30px;
+    
+}
+.subscribe{
+    padding: 20px;
+    padding-bottom: 30px;
+    
+}
+.you{
+    padding: 20px;
+    padding-bottom: 30px;
+    
+}
+.sidebar{
+    padding-top: 10px;
+    font-family: Roboto, Arial;
+    color: white;
+    font-size: 0.7rem;
+    
+    
+}
+#main{
+    
+    margin-left: 80px;
+    width: 94%;
+    height: 1000px;
+    
+    background-color: black;
+}
+
+
