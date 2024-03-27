@@ -1,6 +1,6 @@
-# YouTube Clone Project
-
-Welcome to the YouTube Clone project! This project is designed to help you practice and enhance your skills in HTML and CSS by recreating the basic structure and styling of the popular video-sharing platform, YouTube.
+# StreamSavvy
+Your Ultimate YouTube Clone Experience.
+! This project is designed to help you practice and enhance your skills in HTML and CSS by recreating the basic structure and styling of the popular video-sharing platform, YouTube.
 
 ## Project Overview
 
